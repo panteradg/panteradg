@@ -1,11 +1,11 @@
-# <p align="center">ᴅᴇɴɪᴢ ɢᴏᴢᴜᴛᴏᴋ</p>
+# <p align="left">ᴅᴇɴɪᴢ ɢᴏᴢᴜᴛᴏᴋ</p>
 
 **`CS Apprentice`**
 
 I'm an apprentice learning computer science. Currently i'm in second year of apprenticeship. All Projects are meant to document modules from vocational school. I like to keep my documents neat. All documents can be found in my notion workspace.
 
 <br/>
-<p align="center">
+<p align="left">
   <a href="https://www.youtube.com/channel/UCZ1DWY39SYYRrbtd4VHV9iQ">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCZ1DWY39SYYRrbtd4VHV9iQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
   <a href="https://www.youtube.com/channel/UCZ1DWY39SYYRrbtd4VHV9iQ">
