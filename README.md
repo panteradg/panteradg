@@ -20,6 +20,7 @@ I'm an apprentice learning computer science. Currently i'm in second year of app
 #
 
 ### Languages and Tools
+ 
 <img align="left" width="30px" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" width="30px" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" width="30px" title="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
