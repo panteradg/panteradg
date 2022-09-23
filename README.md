@@ -1,4 +1,4 @@
-# <p align="left">ᴅᴇɴɪᴢ ɢᴏᴢᴜᴛᴏᴋ</p>
+# <p align="left">Deniz Gözütok</p>
 
 **`CS Apprentice`**
 
