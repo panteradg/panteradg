@@ -37,4 +37,4 @@ I'm an apprentice learning computer science. Currently i'm in second year of app
 <img align="left" width="30px" title="Notion" src="https://user-images.githubusercontent.com/89125499/191947844-34bd3298-d5d0-41fa-9d34-928ac05c9b65.png" />
 <br>
 
-#
+# 
