@@ -6,8 +6,6 @@ I'm an apprentice learning computer science. Currently i'm in second year of app
 
 <br/>
 <p align="left">
-  <a href="https://www.youtube.com/channel/UCZ1DWY39SYYRrbtd4VHV9iQ">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCZ1DWY39SYYRrbtd4VHV9iQ?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/panteradg?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/panteradg?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/panteradg?tab=followers">
