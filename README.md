@@ -2,7 +2,7 @@
 
 **`CS Apprentice`**
 
-I'm an apprentice learning computer science. Currently i'm in second year of apprenticeship. All Projects are meant to document modules from vocational school. I like to keep my documents neat. All documents can be found in my notion workspace.
+I'm an apprentice learning computer science. Currently i'm in third year of apprenticeship. All Projects are meant to document modules from vocational school. I like to keep my documents neat. All documents can be found in my notion workspace.
 
 <br/>
 <p align="left">
